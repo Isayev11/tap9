@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 100vw;
+    padding: 75px;
+    text-align: center;
+}
+p{
+    padding: 80px;
+    text-align: center;
+}
+ul{
+    width: 100vw;
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+ list-style-type: none;
+ position: sticky;
+ top: 0;
+}
+body{
+    background-image: url(./2f59120d-bace-45c5-a960-103416747436.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+button{
+    padding: 60px;
+    background-color: purple;
+    text-align: center;
+}
